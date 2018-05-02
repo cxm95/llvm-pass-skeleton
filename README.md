@@ -1,7 +1,8 @@
 # llvm-pass-skeleton
 
 A completely useless LLVM pass.
-It's for LLVM 3.8.
+
+Added support & tested for LLVM 5/6/7.
 
 Build:
 
